@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/isabellechen1/React-notes-app/static/css/main.d2b21ebf.css",
+    "main.js": "/isabellechen1/React-notes-app/static/js/main.1840cfb0.js",
+    "index.html": "/isabellechen1/React-notes-app/index.html",
+    "main.d2b21ebf.css.map": "/isabellechen1/React-notes-app/static/css/main.d2b21ebf.css.map",
+    "main.1840cfb0.js.map": "/isabellechen1/React-notes-app/static/js/main.1840cfb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2b21ebf.css",
+    "static/js/main.1840cfb0.js"
+  ]
+}
